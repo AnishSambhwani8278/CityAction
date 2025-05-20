@@ -10,9 +10,7 @@ Access the live application here: [https://cityaction.netlify.app/](https://city
 
 * **Frontend:** React.js, HTML5, CSS3
 * **Backend:** Express.js, Node.js
-* **Database:** MongoDB (via Mongoose)
 * **Map Integration:** Leaflet.js with OpenStreetMap
-* **Deployment:** Netlify (Frontend), Heroku (Backend)
 
 ## 📌 Features
 
